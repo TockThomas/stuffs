@@ -1,0 +1,13 @@
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\bin\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.exe
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\bin\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.deps.json
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\bin\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.runtimeconfig.json
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\bin\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.runtimeconfig.dev.json
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\bin\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.dll
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\bin\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.pdb
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\obj\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\obj\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\obj\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.AssemblyInfo.cs
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\obj\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\obj\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.dll
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\obj\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.pdb
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\obj\Debug\netcoreapp3.1\Test.ReferenceAndValueTypes.genruntimeconfig.cache

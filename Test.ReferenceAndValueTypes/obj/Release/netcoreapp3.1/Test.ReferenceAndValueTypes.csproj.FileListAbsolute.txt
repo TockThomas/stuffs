@@ -1,0 +1,4 @@
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\obj\Release\netcoreapp3.1\Test.ReferenceAndValueTypes.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\obj\Release\netcoreapp3.1\Test.ReferenceAndValueTypes.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\obj\Release\netcoreapp3.1\Test.ReferenceAndValueTypes.AssemblyInfo.cs
+C:\Users\thoma\source\repos\Test\Test.ReferenceAndValueTypes\obj\Release\netcoreapp3.1\Test.ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
