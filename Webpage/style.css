@@ -1,0 +1,22 @@
+﻿body
+{
+    font-family: Verdana;
+    background-image: url(img/background.jpeg); //filter: blur(2px);
+    background-size: cover;
+    color: skyblue;
+    font-size: 20px;
+}
+
+#ueberschrift
+{
+    color: dodgerblue;
+    font-weight: bold;
+    font-size: 72px;
+    text-align: center;
+    white-space: pre-line;
+}
+
+#center
+{
+    text-align: center;
+}
